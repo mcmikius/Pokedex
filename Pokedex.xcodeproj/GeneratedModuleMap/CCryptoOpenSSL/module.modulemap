@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/mykhailobondarenko/Developer/Pokedex/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
